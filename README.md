@@ -16,6 +16,8 @@ This is a project that simulates a library and library catalog searcher. The poi
   * rating
   * publisher
   * ISBN
+# Note
+The Driver file is an example of how one might use this program to stimulate a library and is a prototype with basic funtionality. To use the other methods (e.g. adding a book), you can create a new Driver file that implements this functionality.
 # Important Notice
 The current .txt file is just a basic example file that includes different books and movies
 * You may add different files that contain movies and books of your choice
@@ -23,4 +25,4 @@ The current .txt file is just a basic example file that includes different books
 * You must follow the following formats of movies and books as the program was designed to reject any other movie or book that does not follow the formats
   * For a Book: id, availability, title, year, book, firstName, lastName, publisher, isbn
   * For a movie: id, availability, title, year, movie, firstName, lastName, rating
-If you need to see what these may look like, refer to the demo.txt file
+* If you need to see what these may look like, refer to the demo.txt file

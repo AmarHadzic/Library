@@ -1,0 +1,15 @@
+1,0,The Catcher in the Rye,1951,book,Salinger,Little,Brown and Company,9780316769174
+3,1,Pride and Prejudice,1813,book,Jane,Austen,Penguin Classics,9780141439518
+4,0,Ulysses,1922,book,James,Joyce,Sylvia Beach,9781847491329
+5,1,The Great Gatsby,1925,book,F.Scott,Fitzgerald,Scribner,9780743273565
+6,1,To Kill a Mockingbird,1960,book,Harper,Lee,J.B.Lippincott&Co.,9780061120084
+7,0,The Sound and the Fury,1929,book,William,Faulkner,Jonathan Cape and Harrison Smith,9780679732242
+8,1,One Hundred Years of Solitude,1967,book,Gabriel,Garcia Marquez,Harper & Row,9780060883287
+9,1,The Lord of the Rings,1954,book,J.R.R.,Tolkien,Allen & Unwin,9780261103207
+10,0,Infinite Jest,1996,book,David,Foster Wallace,Little,Brown and Company,9780316920049
+20,1,Pulp Fiction,1994,movie,Quentin,Tarantino,R
+21,0,BladeRunner,1982,movie,Ridley,Scott,R
+22,1,The Godfather,1972,movie,Francis,Ford Coppola,R
+23,1,Forrest Gump,1994,movie,Robert,Zemeckis,PG
+24,0,Taxi Driver,1976,movie,Martin,Scorsese,R
+25,1,Back to the Future,1985,movie,Robert,Zemeckis,PG
